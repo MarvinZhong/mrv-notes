@@ -6,5 +6,10 @@
 - HTML
 - CSS
 - MySQL
+  ^phpMyAdmin
 - PHP
 - JS
+
+#app
+-VScode
+-sublimetext
