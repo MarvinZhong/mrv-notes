@@ -6,6 +6,7 @@
 - HTML
 - CSS
 - MySQL
+  ^phpMyAdmin
 - PHP
 - JS
 
@@ -13,3 +14,4 @@
 - notepad++
 - sublime text
 - atom
+- VScode
