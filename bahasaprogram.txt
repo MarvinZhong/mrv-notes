@@ -8,3 +8,8 @@
 - MySQL
 - PHP
 - JS
+
+#apps
+- notepad++
+- sublime text
+- atom
