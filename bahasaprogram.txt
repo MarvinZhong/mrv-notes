@@ -1,0 +1,10 @@
+#bahasa
+- Java
+- Python
+
+#web development
+- HTML
+- CSS
+- MySQL
+- PHP
+- JS
