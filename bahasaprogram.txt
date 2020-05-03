@@ -1,4 +1,11 @@
 #bahasa
-- php
+- PHP
 - JS
-- java
+- Java
+- Python
+
+#web development
+- HTML
+- CSS
+- MySQL
+
