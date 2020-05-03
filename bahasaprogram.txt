@@ -9,3 +9,7 @@
   ^phpMyAdmin
 - PHP
 - JS
+
+#app
+-VScode
+-sublimetext
