@@ -6,3 +6,4 @@ notes:
 - read novel 300;
 - learn new things;
 - intern apply;
+- portfolio
