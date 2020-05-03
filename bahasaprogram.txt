@@ -6,5 +6,6 @@
 - HTML
 - CSS
 - MySQL
+  ^phpMyAdmin
 - PHP
 - JS
