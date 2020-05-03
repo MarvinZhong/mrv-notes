@@ -10,6 +10,8 @@
 - PHP
 - JS
 
-#app
--VScode
--sublimetext
+#apps
+- notepad++
+- sublime text
+- atom
+- VScode
