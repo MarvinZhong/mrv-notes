@@ -1,6 +1,4 @@
 #bahasa
-- PHP
-- JS
 - Java
 - Python
 
@@ -8,4 +6,5 @@
 - HTML
 - CSS
 - MySQL
-
+- PHP
+- JS
